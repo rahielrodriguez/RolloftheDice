@@ -1,6 +1,10 @@
-﻿Option Strict On
+﻿'Rahiel Rodriguez
+'RCET0265
+'Spring 2024
+'Roll of the Dice
+'https://github.com/rahielrodriguez/RolloftheDice.git
+Option Strict On
 Option Explicit On
-Imports System.CodeDom.Compiler
 
 Module RolloftheDice
 
